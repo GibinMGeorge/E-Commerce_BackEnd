@@ -16,7 +16,13 @@ install sequelize
 
 install dotenv
 
-configure .env file
+configure .env file - 
+Set Environment Variables: Create a .env file in the root directory of the project and add the following environment variables:
+
+DB_NAME=your_database_name
+DB_USER=your_mysql_username
+DB_PASSWORD=your_mysql_password
+
 
 run the javascript server
 
